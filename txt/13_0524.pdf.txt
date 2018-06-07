@@ -1,0 +1,730 @@
+March 20, 2014 Final Decision and Order 13-0524
+
+STATE OF CONNECTICUT
+DEPARTMENT OF EDUCATION
+
+Student v. Region 9 Board of Education
+
+Appearing 011 behalf of the Parents: Attorney Jennifer Laviano
+The Law Ofﬁces of J ennifer Laviano
+76 Route 37 South
+Sherman, CT 06784
+
+Appearing on behalf of the Board: Attorney Michael McKeon
+Pullman & Comley LLC
+90 State House Square
+Hartford, CT 06103
+
+Appearing before: Attorney Brette H. Fitton
+Hearing Ofﬁcer
+
+FINAL DECISION AND ORDER
+
+ISSUES:
+
+1. Did the Board’s program for the 201 1-2012 school year provide Student with a Free
+Appropriate Public Education (“FAPE”) in the Least Restrictive Environment (“LRE”)?
+2. Did the Board’s program for the 2012—2013 school year provide Student with a FAPE in the
+LRE?
+3. Did the Board Violate Student’s Procedural Safeguards by:
+a. failing to conduct a Functional Behavioral Assessment;
+b. failing to complete an evaluation in a timely manner;
+0. failing to have appropriate Individualized Education Programs in place by the ﬁrst day
+of the 2011-2012 and 2012-2013 school years;
+d. not considering the use of Assistive Technology in Student’s program; and/or
+6. failing to maintain a continuum of appropriate placements?
+
+PROCEDURAL HISTORY:
+
+On June 4, 2013, the Region 9 Board of Education received a Request for a Special Education Due
+Process Heating and the undersigned hearing ofﬁcer was appointed. A preheating telephone conference
+was held on July 10, 2013 and the original deadline for the mailing of the Final Decision and Order was
+established as August 16, 2013. During the preheating conference, Attorney for Parent requested an
+extension of the deadline for the mailing of the Final Decision and Order and Attorney for the Board
+consented to this request. A new deadline for the mailing of the F inal Decision and Order was set for
+September 15, 2013. Hearing dates in this case were scheduled for September 13, 2013, September 20,
+2013 and September 24, 2013. In an email dated September 5, 2013, Attorney for the Student requested
+that the hearing dates of September 13, 2013 and September 20, 2013 be postponed in order to permit
+the parties to instead hold a PPT meeting on that date to review the results of Student’s Triennial
+evaluation. Attorney for the Board also requested an extension of the deadline for the mailing of the
+
+1
+
+March 20, 2014 Final Decision and Order 13-0524
+
+Final Decision and Order, so that the ﬁrst date of hearing did not fall beyond the existing deadline.
+These requests were granted and the new deadline for the mailing of the Final Decision and Order was
+set for October 15, 2013. At the ﬁrst date of hearing an extension of the deadline to mail the Final
+Decision and Order was requested and granted on the record. A new deadline for the mailing of the
+Final Decision and Order was set for November 15, 2013. On October 23, 2013, Attorney for the
+Student requested an extension of the deadline for the mailing of the Final Decision and Order. This
+request was granted and a new deadline for the mailing of the Final Decision and Order and deadline
+was set for December 15, 2013. Another request for extension of the deadline for the mailing of the
+Final Decision and Order was requested and granted to allow for additional hearing dates. The revised
+deadline was set for January 15, 2013. On J anualy 14, 2014, the ﬁnal date of hearing in this case, a
+brieﬁng schedule was set. The deadline for the submission of briefs t0 the Hearing Ofﬁcer was set at
+February 24, 2014. An extension of the deadline for the mailing of the Final Decision and Order was
+requested in order to accommodate the brieﬁng schedule. The extension request was granted and the
+deadline for the mailing of Final Decision and Order was extended to Friday March 14, 2014. On
+February 17, 2014, Attorney for the Board requested that the brieﬁng deadline be extended to February
+27, 2014. On February 25, 2014, Attorney for Student requested that the brieﬁng deadline be extended
+to March 3, 2014 and that the deadline for mailing the Final Decision and Order be moved to March 20,
+2014. Both requests of Attorney for the Board were granted on F ebruary 25, 2014.
+
+This hearing was held on the following dates: September 24, 2013, October 9, 2013, December 3, 2013,
+December 4, 2013, December 12, 2013, December 13, 2013, and January 14, 2014. The Parent’s
+witnesses were the Father; Dr. Melissa Olive (Dr. Olive), Susan DeVol (Teacher), and Dr. Elizabeth
+Sellinger (Dr. Sellinger). The Board’s witnesses were Maggie Egan (Case Manager), Maryanne Pieratti
+(School Social Worker), Rebecca Hoyt(Sch001 Psychologist), and Patricia Roszko, Director of Pupil
+Services (Director). The Request for the Due Process Hearing was entered as Hearing Ofﬁcer Exhibit 1.
+The Parents submitted exhibits numbered P—1 to P—17 and the Board submitted exhibits numbered B-1 to
+B-36, which were entered as full exhibits.
+
+STATEMENT OF JURISDICTION:
+
+This matter was heard as a contested case pursuant to Connecticut General Statutes (C.G.S.) §10-76h
+and related regulations, 20 United States Code §1415(t) and related regulations, and in accordance with
+the Uniform Administrative Procedure Act (U.A.P.A.), C.G.S. §§4-1766 t0 4-178, inclusive, §§4-181a
+and 4-186.
+
+RULING ON OUTSTANDING MOTIONS AND OBJECTIONS:
+A11 motions and objections not previously ruled upon, if any, are hereby overruled.
+FINDINGS OF FACT AND CONCLUSIONS OF LAW:
+
+To the extent that the procedural history, summary, and ﬁndings of fact actually represent conclusions of
+law, they should be so considered, and vice versa. For reference, see SAS Institute Inc. V. H. Computer
+Systems, Inc., 605 F.Supp. 816 (MD. Tenn. 1985) and Bonnie Ann F. v. Calallen Independent School
+District, 835 F.Supp. 340, 20 IDELR 736 (SD. Tex. 1993).
+
+March 20, 2014 Final Decision and Order 13-0524
+
+SUMMARY:
+
+The Student is a 17 year old boy, who is currently enrolled in the in the Joel Barlow High School in the
+Region 9 School District. He is eligible for Special Education under the disability category of Other
+Health Impairment (“0H1”) - Attention Deﬁcit Disorder (“ADD”)/Attention Deﬁcit Hyperactivity
+Disorder (“ADHD”). The Student claims he was denied FAPE in the LRE for the 2011-2012 and 2012-
+2013 school years and that the Board committed several other procedural violations of the Individuals
+with Disabilities Education Act (“IDEA”). Student claims that an Applied Behavioral Analysis program
+overseen by a BCBA is a necessary component to his Individualized Education Program. Board
+disagrees.
+
+FINDINGS OF FACT:
+
+After considering all the evidence submitted by the Parties, including documentary evidence and
+testimony of witnesses, I ﬁnd the following facts:
+
+1. Student was born on 12/27/1996, and is now 17 years of age. (Testimony of Father; HO-I, B-1)
+
+2. Student’s eligibility category for Special Education under the IDEA is OI-II - ADD/ADHD Disorder
+(Testimony of Father; B-1)
+
+3. Student came to live with his adoptive parents at the age of 9. (Testimony of Father, 9/24/13, P-l3).
+Prior to enrollment in the Region 9 School District, Student was enrolled in the Redding School District.
+
+(Testimony of Father, 9/24/13, P-13)
+
+4. Student suffered signiﬁcant abuse and neglect at the hands of his biological family until he was
+removed from the home when he a small child. (P-13) Student’s childhood trauma was exacerbated by
+the disruption of subsequent foster home placements, two psychiatric hospitalizations and placement in a
+residential facility. (Id.)
+
+5. In addition to a diagnosis of ADHD, Student has a diagnosis of Reactive Attachment Disorder
+(“RAD”) and experiences sensmy issues. (P-13, Pg. 10)
+
+6. There is documentation of Student’s struggle completing homework as far back as 2007. (P-13 Pg. 2~
+3).
+
+7. The Student’s Goals and Objectives in his 9th Grade IEP (2011—2012) were the result of
+collaboration between the staff from the Redding School District and the staff of Joel Barlow High
+School in 2013. (Testimony of Director; B-1)
+
+8. Signiﬁcant communication and planning took place in preparation for Student’s transition from the
+8th grade in the Redding School District to Joel Barlow High School in Region 9 District. This included
+arrangements for Student to have multiple visits to the high school in advance of enrollment and a PPT
+meeting with staff from Redding and Region 9 to address planning for the transition to high school.
+(Testimony of Father, Testimony of Director, B-l) In addition, prior to attending the joint PPT meeting,
+the Director attended other PPT meetings for the Student. (Testimony of Director)
+
+March 20, 2014 Final Decision and Order 13-0524
+
+9. The PPT meeting held on 5/13/2011 to address Student’s transition to high school included a list of
+PPT recommendations. (B-I) Among these recommendations were putting an accountability system in
+place to start the school year and a Behavior lntewention Plan (“BIP”). (B-l) The Special Factors
+section of the 5/13/2011 IEP indicates that a B1? was developed and that IEP Goals and Objectives have
+been developed to address the behaviors (Id.)
+
+10. The list of accommodations for Behavioral Intervention in the 5/13/2011 IEP included: behavior
+plans, break between tasks, de-escalation strategies, modeling expected behavior by adults,
+proximity/touch control. (B-l) The accommodations to address Student’s organizational issues included
+an assignment pad, daily plamier check, extra space for work, folders to hold work, and post
+assignments. (Id.)
+
+11. The 5/ 13/201 1 PPT Meeting Summary includes a report from a School Based Team Member from
+the Redding School District that Student had weaknesses remembering to hand in work, organization,
+following time-lines, and remembering to bring home all homework materials. Redding School District
+PPT Members also reported that Student had a Behavior Plan and that many adjustments were made to
+the Behavior Plan throughout the year. (Id.) It was also stated that Executive Functioning piece will be
+the greatest challenge. (1d,)
+
+12. Appended to the ofﬁcial 5/13/201 1 IEP was a document with the title Behavior Plan Modiﬁcations.
+This document indicates that the existing Middle School behavior plan would remain in effect with one
+modification: the addition of a “reﬂection” component to be instituted when the Student was referred to
+the ofﬁce. (B~1) The Middle School Behavior Plan targeted the behavior of compliance and had 5
+components including: a break pass, identifying positives, a social script, praise and weekly locker
+checks. (B-l)
+
+13. Concerns were noted at the 5/13/2011 PPT that consequences for Student behavior that are not
+immediate are not effective (B-l)
+
+14. On the Transition Planning page of the 5/13/2011 IEP, the Post—School Outcome Goal Statement -
+Post—Secondary Education or Training was identiﬁed as “Upon graduation, [Student] will attend the
+post-secondary program of his choice (ie two yr, four yr, technical)”. (B-l) The Transition Planning
+Goal for Employment was noted as “Upon graduation, [Student] will have part—time employment in his
+local community or school environment, (Id.)
+
+15. The PPT determined that the course Ofstudy needed to assist the Student in reaching the 5/13/201 1
+IEP Transition Planning Goals and Related objectives would “... include (including general education
+activities: general college preparatory with support for developing executive functioning skills, and
+quarterly meeting with Transition Coordinator”. (B-l)
+
+16. The Academic Goals listed on the 5/ 13/2011 IEP were “[Student] will complete assignments.” and
+Student will “[d]emonstrate an improvement in organization, study skills.” (B-l)
+
+17. The Social/Behavioral Goals in the 5/ 13/201 1 IEP were “[Student] will demonstrate an
+improvement in social skills” and [Student] will demonstrate an improvement in decision—making skills.
+
+18. A Progress Report on IEP Goals and Objectives was issued on 2/20/2012. (B-6) Progress on both
+
+4
+
+March 20, 2014 Final Decision and Order 13~0524
+
+Academic Goals were listed as SatisfactOIy, with Mastery noted in three Objectives: turning in
+assignments, utilizing checklists for entering/transition into classroom and beginning task, and checking
+assigmnent pad and reviewing with content lab teacher during class on what materials need to be
+brought home to complete academic tasks. (Id.) Progress on the Social/Behavioral Goal of social skills
+improvement was indicated as Satisfactory and the progress on the Goal of demonstrating an
+improvement in decision-making skills was noted as Limited Progress. (Id.) Limited progress on the
+Objective of with adult facilitation, demonstrating the ability to accept responsibility for the
+consequences of his actions without trying to shift the blame to others 01' create excuses, was also noted.
+
+Id.
+
+19. A PPT meeting was requested by the family and held on 2/28/2012. (B-7) Parent concerns at that
+time were listed as concerned about executive function, organization and follow through. (Id.)
+
+20. On 2/28/2012, the PPT recommended consultant sewices to look at approaches for executive
+functioning skills and home/school communication models. (B-7) The parties agreed to hire a mutually
+agreed upon consultant. The consultant chosen was Dr. Laura Seese, who is not an employee of the
+District. (Testimony of Director) The Parents’ request for aﬁer—school tutoring was refused. (B-7) The
+justiﬁcation for this refusal was that the study skill areas of concern were being addressed in the
+resource room. (Id.)
+
+21. At the beginning of the 9th grade year, Student received 4.8 hours of academic support a week in
+the resource room and .8 hours a week of counseling. (B-7)
+
+22. Student’s progress on the Academic Goals and Objectives of his IEP, as noted on the 2/20/2012
+Progress report, remained unchanged when the next Progress Report for IEP Goals and Objectives was
+issued on 6/20/2012. (8-12)
+
+23. Student’s progress on the Social/Behavioral Goals indicated regression on the goal of demonstrating
+an improvement in social skills. (B-12) Regression was also noted in the Objectives of responding in a
+socially acceptable manner when approached by peers and/or adults in a variety of structured and
+unstructured settings, communicating and interacting in a socially acceptable manner with peers and
+adults, with fading adult prompting. (Id.)
+
+24. Student had two signiﬁcant behavioral incidents at school in May, 2012. (Testimony of Father; B-
+10). The first incident involved the theft of a cell phone on or around May 3, 2012. The second incident
+involved Student defacing another student’s planner with slurs and obscene pictures. (B-10) Student
+was moved to a Level 3 Accountability for the remainder of the school year which meant he had an
+escort for transitions between classrooms, to and from lunch and to the bus at the end of the day.
+(Testimony of Director; 8-10)
+
+25. A PPT meeting was held on 9/25/2012 during which Dr. Seese provided an oral report of her
+ﬁndings. (B-lS) Despite the PPT agreeing to Dr. Seese serving as a consultant in February of 2012, this
+is the ﬁrst time any information from Dr. Seese is obtained. (Testimony of Director)
+
+26. The reason for the delay in receiving Dr. Seese’s written report is unclear. The District stated it had
+
+hoped to review the report in April, but Dr. Seese had indicated that she needed more time to complete
+the work. (Testimony of Director) Dr. Seese may have been ill for an undetermined length of time.
+
+5
+
+March 20, 2014 Final Decision and Order 13-0524
+
+(Testimony of Director) Despite attempts by the District to obtain the report over the summer, it was
+not produced until some time after the 9/25/2012 PPT meeting. (Testimony of Director) Dr. Seese failed
+to note the date on which she generated the written report on the report itself. (B-16)
+
+27. At the 9/25/2012 PPT meeting, the Parents requested four hours of aﬁer-school tutoring a week to
+address difﬁculties with homework completion at home. (B-15) Dr. Seese expressed her opinion that in-
+school program options better than aﬁer school tutoring for addressing Student needs. (B-15) The PPT
+summary states that “[Student] needs to take ownership of his work and follow through” and then states
+immediately thereaﬁer, that “[s]ome reinforcement at home tied into [homework] will be important as
+getting a poor grade does not seem to be of concern to him.” (Id.) Student’s inconsistent grades were
+noted in French and English. (1d.)
+
+28. At the 9/25/2012 PPT meeting, the PPT predicted Student will attend a 4 year college as he is
+interested in engineering. (B-15)
+
+29. The Board refused to have an independent evaluation conducted, but agreed to have a Functional
+Behavioral Analysis done by District staff at the 9/25/2012 PPT meeting. (B—15) The issues of
+afterschool tutoring and behavior support were tabled pending further discussion between the Attorney
+for the Board and Attorney for the Parent. (1d,)
+
+30. One way in which Student’s disability was manifesting itself in the Behavioral/Social/Emotional
+sphere in 10th grade was in an inability to see connection between his behavior and immediate and long
+range consequences ﬂowing from his inability to inhibit some behaviors and poor self—monitoring skills.
+(B-lS)
+
+31. Student’s 9/25/2012 IEP increased resource room supp01t to 9.6 hours per week and included
+modiﬁed Goals and Objectives for Student’s Sophomore year. (B-15). Student’s Academic Goals were
+changed to [Student] will demonstrate the ability to self-monitor his performance against the expected
+standard and [Student] will demonstrate the ability to inhibit impulsive behaviors at appropriate times.
+(B-15)
+
+32. Student’s Social/Behavioral Goals for his Sophomore year were changed to: [Student] will
+demonstrate the ability to apply strategies learned in counseling sessions to his daily academic and
+social routines, [Student] will develop the study skills and academic habits needed for success at the
+post-secondary level and [Student] will continue to develop and reﬁne his transition plan in the area of
+employment and career goals and awareness. (B-15)
+
+33. Student’s ﬁrst semester grades as of April 23, 2013 were B in Theater, D+ in American
+Government, C in Geometry, C+ in Biology, B— in French and C in English. There were a noticeable
+number of absences from Study Hall, 21 in total, the reason for which was not made clear in the record.
+(B-20)
+
+34. Student’s Progress on IEP Goals and Objectives was reported on April 23, 2013, (B-21)
+Satisfactory progress was reported on all IEP Goals and Objectives, with the exception of the masteiy of
+one objective addressing handwriting and objectives relating to the Transition Goals that had not been
+introduced. (Id.)
+
+March 20, 2014 Final Decision and Order 13-0524
+
+35. On April 23, 2013, the PPT met to plan the Student’s Triennial Evaluation and conduct an Annual
+Review. (B—22) The PPT Recommendations were to conduct an FBA with BIP to follow, set up iPads in
+classrooms, conduct an Assistive Technology evaluation, meet as PPT in one month, liaison with
+outside therapist, contact district network head, fade Teaching Assistant from classroom, excused
+absences for April 15 and April 16, liaison with Dr. Olive around the FBA, continue with current goals
+through 10 PPT meeting in June, 2013 and conduct a re-evaluation during the summer. (Id.)
+
+36. Attorney for the Student requested an FBA leading to a BIP and requested that Integrated Suppont
+be moved to a one to one time to provide more tutorial suppont. (B-22) This was agreed to by the PPT.
+Consents for FBA and AT Evaluation were signed by Parent. Consultation between Dr. Olive and
+School Psychologist was requested and agreed to by District. (Id.)
+
+37. There were no disciplinary referrals of Student to the Dean of Students at Joel Barlow from
+September 20, 2012 through April 23, 2013. (B-22)
+
+38. Student receives tutoring in Algebra as a result of his score on a readiness test for this year.
+(Testimony of Case Manager)
+
+39. The transition from the use ofteaching assistants or paraprofessionals to 1 t0 1 coaching model was
+carried forward from end of Sophomore year. (Testimony of Case Manager)
+
+40. As of J anuary 14, 2014, Student’s grade in Chemistry had moved from a D+ in the ﬁrst quarter to a
+C+ in the second quarter. Student’s grade in Algebra 2A had moved from a C+ in the ﬁrst quarter to a
+B+ in the second qualter. In A11, the Student went from a B+ to an F from the ﬁrst quaﬁer to the next.
+In US Hist01y, the Student earned a O in both quanters. In AP English, the Student earned a D in both
+quarters and in French, Student earned a C in both qualters. (P-17)
+
+41. The J anuary 14, 2014 Powerschool repmt shows that the grades for individual homework
+assignments, tests and quizzes that make up the composite quarter grade varied dramatically. (P—17, Pg.
+2). A review of Chemistry grades for the period from 11/4/2013 through 1/ 13/2014 shows the following
+spread of grades: A+ (11), B-(I), C (2), C-(2), D (3) and F (7). (Id.)
+
+42. Student’s Grade Point Average (“GPA”) in Freshman year was 2.0 and 2.3 in Sophomore years.
+(Testimony of Director)
+
+43. In 2007, Dr. Loomis completed a psychological evaluation of Student. (P-13) He recommended a
+contingency plan with careful tracking of behavior difﬁcuIties and to identify events triggering negative
+reactions. (P-13)
+
+44. Student came to Parents with an IEP (Testimony of Father). When Student had behavioral issues in
+6th grade in the Redding School district, the PPT utilized the sewices of a behaviorist through the
+Institute for Professional Practice (“IPP”) to great success. (Testimony of Father) Components of
+Student’s program in this year included weekly team meetings. (Testimony of Dr. Sellinger) The IPP
+behaviorist was replaced with in house staff in subsequent years and Student’s behavior declined in 7th
+and 8th grades. (Id.)
+
+45. Student was assigned a case manager for the 201 1-2012 school year and 2012—2013 school years.
+
+March 20, 2014 Final Decision and Order 13—0524
+
+(Testimony of Director). Student’s case manager was responsible for communicating with the general
+education teachers and with home. (Id. at 15) The case manager was also responsible for making sure
+the IEP was being implemented and working towards the goals and objectives in Student’s IEP. (Id. )
+
+46. District has provided Student with services of School Social Worker since 8th grade transition
+(Testimony, Director 1/14/2014 Pg. 25). The School Social Worker’s charge was working on social
+emotional goals including improving decision making, accepting responsibility, strategies to manage
+anger. (Testimony of Director)
+
+47. Behavioral issues continued to occur in 9th grade. (Testimony, Father) Student’s difﬁculties in 9th
+grade eventually resulted in teaching assistants being assigned to Student in all of his academic classes
+in the 201 1-2012 school year. (Testimony of Director) This expansion of in-class support was needed
+because student was not always representing the homework that needed to be done, nor was he
+presenting homework that should have been completed accurately which made the case-manager’s
+monitoring very difﬁcult. (Id.) Teaching Assistants were tasked with the job of recording Student’s
+assignments and recording and tracking completion of assignments (Testimony of Director)
+
+48. Student was resistant and disrespectful in interactions with paraprofessionals in his 9th grade year.
+Student had a history of this behavior. (Testimony ofDirector, B-7)
+
+49. Student and family have had the involvement of outside agencies including Intensive ln—l—lome
+Child and Adolescent Psychiatric Services on two occasions (IICAPS). (Testimony of Father, Director)
+
+50. The Region 9 School Psychologist conducted a Functional Behavioral Assessment (“FBA”) which
+was completed on J une 7, 2013. (8-6) This F BA identified behaviors of concern as “Incidents of
+escalated behavior in the classroom and missed homework assignments.” (Id.) The Operational
+Deﬁnition of Targeted Interfering Behavior was noted as: “[Student] occasionally engages in behavior
+that is inappropriate for the classroom environment. Examples of these behaviors include verbal
+argument and refusing to work on missed homework assignments.” (B—26)
+
+51. Student does not have a learning disability. (Testimony of Dr. Olive, P-13)
+
+52. District Staff conducted an Assistive Technology (“AT”) Assessment and generated a report on
+May 21, 2013. (B24) The assessment indicated that Student would beneﬁt from the use oftechnology
+with writing tasks. (Id.)
+
+53. Parents have concerns about Student using the internet unsupewised. (Testimony of Father) This
+stems from misconduct on the palt of Student and more signiﬁcantly, from Studentls biological family
+utilizing the internet to ﬁnd Student through information Student had posted online and come to
+Student’s summer job. (Id.) This contact had a deleterious effect on Student’s behavior. (Id.)
+
+54. There was an incident at Joel Barlow High School where Student was missing from his classes for a
+signiﬁcant portion of the school day and when ﬁnally found, was discovered working on a computer
+unsupervised. (Testimony of Father)
+
+55. The Progress Repelt for IEP Goals and Objectives dated 6/ 13/2013 indicated Satisfactory progress
+on Student’s Academic Goals and Social Behavioral Goals. (B-27) Limited progress was noted on the
+
+March 20, 2014 Final Decision and Order 13-0524
+
+objective of training Student in a self-regulatory strategy. . . .[Student] will keep a daily journal in which
+he predicts how effectively he will accomplish a task.., his predicted level of success, and his actual
+level of performance in relation to his predictions. (Id.)
+
+56. A PPT was held on June 13, 2013. (B-28) Parents believed Dr. Olive would be in attendance to
+review School Psychologist’s F BA. (Id.) Board indicated there was a consultation with Dr. Olive prior
+to conducting the FBA, and that Dr. Olive’s forms were used. (Id.) Teacher reports Student in not being
+invested in his own grade. (Id.) Family through counsel requested an independent FBA and this action
+was refused. (Id.)
+
+57. A Transition Report dated June 12, 2013 has been completed by the District Transition Coordinator.
+(B-28) Transition concerns noted in the repott included college and career readiness skills and making
+connections between choices at the high school level and the impact on successful college and
+workplace experiences. (Id.) Transition goals to address concerns included acquiring skills to
+successﬁllly transition student to college and increase his understanding of the value of work, and
+working on appropriate behavior expectations in the workplace. (Id.)
+
+58. Dr. Olive was retained by the District, in her capacity as a Board Certiﬁed Behavioral Analyst
+(BCBA) and conducted an “Observation, Program Review and Recommendations” for Student.
+(Testimony of Director, P~2) A written report was generated on April 18, 2013. Dr. Olive noted a
+discrepancy between Student’s academic performance and his tested ability and identiﬁed three possible
+explanations for that discrepancy. (Testimony of Dr. Olive, P—2) Dr. Olive identiﬁed deﬁcits in the
+written goals including an unclear relationship between the goals and the objectives, and lack of clarity
+in deﬁnitions utilized in goals. (Id.) Dr. Olive also indicated that goals and objectives that rely on adult
+actions as triggers for behavior, do not foster independence. (Id.)
+
+59. Dr. Olive’s recommendations include explicit skill instruction in the areas where skills are lacking,
+Assistive Technology, revision of IEP Goals and Objectives to be more measurable, a thorough FBA to
+determine if school failure is motivated by external reinforcers 01' if it is due to executive functioning
+and/or disability related conditions and collaboration between home school and the community. (P—Z)
+Dr. Olive also included a list of identiﬁed skills that Student appeared to be lacking. (Id.) This extensive
+list included Student’s ability to submit all work on time. (Id.) Student’s inappropriate behaviors, as
+identiﬁed by Dr. Olive in her report, were lying, bringing inappropriate items to school, and opening up
+social media accounts without permission. (Id.)
+
+60. Dr. Olive indicated that Student should be college bound but expressed concerns about college
+readiness if Student’s behaviors were not addressed. (Testimony of Dr. Olive)
+
+61. Student’s general cognitive ability is within the average range, with a Full Scale Intelligence
+Quotient of 109. (P4) Student’s verbal reasoning abilities are in the superior range as evidenced by
+Verbal Comprehension Index of 120. (Id.) Student’s perceptual reasoning on the Perceptual Reasoning
+index is in the average range. (Id.) Working memory for Student is a weakness in comparison to his
+verbal reasoning abilities. In working memory, he is in the average range scoring a 97 on the Working
+Memory index which means he did better than 42% of his peers. (Id.) Student’s performance on the
+Processing Speed Index was 97, or average speed. Inconsistencies were seen in Student’s visual and
+auditory memory skills during testing. (Id.)
+
+March 20, 2014 Final Decision and Order 13-0524
+
+62. Father repoﬂs that struggles with Student surrounding completion of homework continued
+throughout Student’s ﬁrst two years of high school. (Testimony of Father)
+
+63. Student seeks independence through his behaviors, but does not know how to do it independently.
+(Testimony of Dr. Sellinger)
+
+64. Although a document was appended to the IEP dated 5/ 1 3/201 1, a BIP, there was no BIP noted in
+the IEP dated 9/15/2012. (B-1,B-15)
+
+CONCLUSIONS OF LAW AND DISCUSSION:
+
+The Student is eligible under the Individuals with Disabilities Education Act (“IDEA”) to receive
+a Free Appropriate Public Education in the Least Restrictive Environment. 34 CFR 300.17. The parties
+do not dispute that the Student is eligible for Special Education under the OHI-ADHD classiﬁcation
+found in 34 CFR 300.8(9).
+
+Parents asseit that the Individualized Education Programs (“IEP”) designed and implemented for
+the Student in the 201 1-2012 and 2012-2013 school years were inappropriate. Board disagrees. The
+determination of what is an appropriate education for a student with a disability requires an analysis of
+each student’s unique needs and must be determined on a case-by-case basis. Board ofEduc. of the
+Hendrick Hudson Cent. Sch. Dist. v. Rowley, 553 IDELR 656 (U.S. 1982).
+
+Board has the burden of showing its program for this Student is appropriate. Conn. Agencies
+Regs. § 10-7611-14. In order to meet this burden, the Board must demonstrate compliance with the
+procedures set forth in the IDEA and show that the IEP is reasonably calculated to enable the child to
+receive educational beneﬁts Board of Educ. of the Hendrick Hudson Cent. Sch. Dist. v. R0wley,ﬂ
+IDELR 656 (U.S. 1982). If the Board can successfully demonstrate that it has met the two~part Rowley
+test, it has met its burden and nothing fuﬂher is required. (Id.)
+
+The palties are limited to discussing the placement and sewices speciﬁed in the written plan and
+therefore reasonably known to the patties at the time of the placement decision when determining the
+adequacy of an IEP. See F uhrmarm ex rel. Fuhrmann v. E. Hanover Bd. of Educ, 993 F.2d 1031, 1039
+40 (3d Cir. 1993) (”Rowley requires, at the time the initial evaluation is undeltaken, an IEP need only be
+’1'easonab1y calculated to enable the child to receive educational beneﬁts.’ [T]he measure and
+adequacy of the IEP can only be determined as of the time it is offered to the student, not at some later
+date." (quoting Rowley, 458 U.S. at 206—07)). A signiﬁcant amount of evidence produced at the hearing
+addressed Student’s 2013-2014 IEP and functioning within the current school year. While the
+appropriateness of the 2013—2014 program is not at issue in this hearing, this Hearing Ofﬁcer declines to
+ﬁnd that a reasonable inference should be drawn that the Parents consider Student’s 2013~2014 program
+to be appropriate, solely on the basis that Parent did not request to amend the Hearing Request to include
+the current year. No information beyond the fact that an amended complaint was not ﬁled was noted in
+suppoﬁ of Board’s argument that the inference be drawn. Many reasonable inferences could be drawn
+from that one fact, including an inference that the Parents, by ﬁling in June, might have reasonably
+expected the alleged problems to have been addressed before April 2014. Thus, this Hearing Ofﬁcer
+ﬁnds that there is an insufﬁcient basis for that inference.
+
+The question before this hearing ofﬁcer is whether the Board’s program adequately addresses
+Student’s needs under the Rowley standard: was Student’s IEP for the 2011-2012 and 2012—2013 school
+years reasonably calculated to enable the child to receive an educational beneﬁt? Student’s program,
+while it had helpful components, failed to provide a program that addressed the ongoing issue of
+Student’s inability to generalize critical skills to home, namely completing assignments outside of
+
+10
+
+March 20, 2014 Final Decision and Order 13-0524
+
+school and turning them in. Despite reports of the success of earlier programs that involved a
+behaviorist, the Board declined to utilize one for the 2011-2012 and 2012—2013 school years. As this
+Student is of average intelligence and academic ability, the educational beneﬁt analysis turns on whether
+the Student is able to successfully access the curriculum and complete work consistent with the
+expectations set foxth by school staff. Student clearly does not complete work or hand it in consistently,
+nor does he complete it with consistent quality commensurate with his abilities, despite a signiﬁcant
+level of support.
+
+The Board has suggested that the Parents’ true concern is raising Student’s grades and there
+exists a dispute as to whether Parents were told that they could reasonably expect B grades from
+Student. Regardless of whether this dispute stems from a miscommunication or misunderstanding, it
+does not bear on the issues at hand. The Parents are not requesting that Student gets all 83. Parents are
+trying, in the waning moments of their son’s high school career, to determine the source of the behaviors
+which interfere with his educational progress and address them, before the oppommity to obtain that
+information and act on it is lost.
+
+The Board’s representation that the increase in Student’s GPA ﬁ'om 9th grade to 10th grade is
+evidence of progress is compromised by the inconsistency of Student’s work as a whole within each
+class. The Director testiﬁed that Student’s GPA of 2.0 in his Freshman year “would be a straight C
+average” and that the 2.3 Student earned at the end of his Sophomore year is” C-pluses and some B-s.”
+An analysis of how Student’s daily work in each class results in a quanerly grade of a C or B- is critical
+to understanding why a slight rise in GPA may not be an accurate assessment of progress for this
+Student.
+
+In the current year, Student is achieving a C 01‘ D qualterly grade by producing a signiﬁcant
+amount of A and B level work riddled by Ds and Fs. In other words, his grade is dragged down to a C
+or D, frequently by the lack of work completion or complete failure on assignments 01' tests. Thus,
+while the Student may have received an overall C in a class, that grade may not accurately reﬂect the
+rollercoaster that is this Student’s academic achievement.
+
+In the context of this hearing, Student has been described as “inconsistently consistent”, in a
+manner that suggests that is just the way he is, and that is the end of the inquiiy. Although the District in
+questioning its witnesses attempted to characterize Student’s interfering behaviors (lying and failing to
+turn in homework assignments) as typical of high school students, Student, by virtue of his disability and
+history of trauma is atypical and his needs are complex.
+
+The Board’s Progress Reports on IEP Goals and Objectives for Student’s ﬁrst two years of high
+school consistently indicated satisfactory progress on many of Student’s IEP Goals and Objectives.
+However the evidence indicates periods of signiﬁcant regression within the ﬁrst two years of high
+school requiring signiﬁcant changes to the program midstream.
+
+Student’s IQ and Achievement testing indicate that Student is of average intelligence and has
+average, and in some case superior, academic abilities. Student does not have a learning disability.
+Unfortunately, Student has still not internalized the skills necessary to succeed in a post-secondary
+educational or work setting. Throughout his ﬁrst two years of high-school he continued to stmggle to
+complete work outside of classes and prepare for tests within it. In order to avoid Student starting
+college with skill deﬁcits that cast serious doubt on his ability to independently and successfully
+navigate a higher education environment, a multi-pi‘ong approach must be instituted.
+
+Student’s intelligence and academic achievement testing indicate that college should be an
+option for Student. The District changed the Student’s post—secondary transition goal from a 2 year, 4
+year, or vocational school to a four year college, based on his interest in engineering. Board and Parent
+witnesses testified that Student’s innate abilities should make college an option for him. Witnesses also
+
+11
+
+March 20, 2014 Final Decision and Order 13-0524
+
+testiﬁed that Student is not ready for college. While organizational weaknesses exist and contribute to
+Student’s difﬁculties, the evidence shows that what impedes the student most is his behavior. Student
+has been struggling with homework completion and test preparation for years.
+
+The marked disparity between ability and achievement and the obsewations made by District
+Staff that the Student is not making the connection between his choices and the impact of those choices
+on his future indicate that this Student is not being giving the tools he needs to successfully transition to
+the post—secondary educational setting set forth in the District’s IEP. Student is not college ready and
+without intewention is not on a trajectory to obtain the skills he lacks and are necessary to succeed in a
+four—year college.
+
+The Transition Coordinator made a recommendation that Student be allowed to experience the
+natural consequences of his actions. While Student’s chronological age and grade level might appear to
+warrant this recommendation, even the most cursory review of Student’s childhood reveals that his
+childhood was marred by horriﬁc instances of unnatural consequences. These childhood experiences
+and their impact are being addressed in school by the School Social Worker and outside of school by
+Student’s therapist. The work being done by the School Social Worker has its own pace and focus and
+is clearly a very impoﬁant component of Student’s IEP.
+
+The task of getting Student to an understanding of the relationship between his actions and his
+future at a fundamental level may well be addressed in the therapeutic setting. It may also be addressed
+through an FBA and BIP by creating opportunities for success on a smaller, more concrete scale. While
+there may be some overlap in terms of goals, that therapeutic work is not mutually exclusive with the
+work in an ABA program. These are complementaiy processes and should be coordinated to the best
+effect for the Student.
+
+Despite reports of the success of earlier programs that involved a behaviorist, the Board declined
+to utilize one for the 2011-2012 and 2012-2013 school years. As this Student is of average intelligence
+and academic ability, the educational beneﬁt analysis turns on whether the Student is able to
+successfully access the curriculum and complete work consistent with the expectations set forth by
+school staff. Student clearly does not complete work or hand it in consistently, nor does he complete it
+with consistent quality commensurate with his abilities, despite a signiﬁcant level of support.
+
+The Functional Behavioral Assessment conducted by the district did not assess the issue of
+Student’s continued failure to complete assignments and turn them in nor did it address Student’s
+ongoing struggle to generalize skills to the home environment and the maladaptive behavior oflying
+within the school environment. The singular focus of the Board’s FBA limited the ability to fully
+evaluate the Student’s interfering behaviors, and thereby allow those behaviors to be addressed.
+
+Demonstration that a procedural Violation has occurred does not in and of itself entitle parents to
+prevail. It must be shown that the procedural Violations "impeded the child's right to a [FAPE],"
+"signiﬁcantly impeded the parents' opportunity to paiticipate in the decision~making process," 01'
+"caused a deprivation of educational beneﬁts." 20 U.S.C. § 1415(f)(3)(E)(ii); AC, 553 F.3d at 172.
+Multiple procedural violations may cumulatively result in the denial of a F APE even if the violations
+considered individually do not. See Werner v. Clarkstowrl Cent. Sch. Dist, 363 F. Supp. 2d 656, 659
+(S.D.N.Y. 2005).
+
+In the present case, the issues of the continuum ot‘appi'opi‘iate placement and appropriateness of
+the USPS in place at the stalt of each school year are, in essence, elements of the substantive denial of
+FAPE claims and as such are addressed in the substantive analysis. The remaining procedural violations
+raised by the Parents did not occur. Thus it is not necessary to evaluate whether there was a denial of
+FAPE as a result. The Board did not Violate Student’s Procedural Safeguards by failing to conduct a
+Functional Behavioral Assessment. While the parties disagreed about who should conduct the FBA, one
+
+12
+
+March 20, 2014 Final Decision and Order 13-0524
+
+was conducted by the School Psychologist and the Board retained an outside consultant to review the
+Student’s ﬁle, conduct observations and generate a report.
+
+The Board did not violate Student’s Procedural Safeguards by failing to complete an evaluation
+in a timely manner. The record reﬂects that the failure to provide a timely report was the fault of the
+independent professional contracted to make the report, not the Board. The Board made good faith
+efforts to obtain the report earlier than the time it was produced, but those efforts were unsuccessful.
+
+The Board did not violate Student’s Procedural Safeguards by failing to consider the use of
+Assistive Technology in Student’s program. Technology was offered to and utilized by the Student in
+his educational program, within the conﬁnes imposed by Parents out of fear for Student’s safety.
+
+FINAL DECISION AND ORDER:
+
+The Board failed to provide Student with a Free Appropriate Public Education in the Least
+Restrictive Environment for the 201 1-2012 and 2012-2013 school years. The issues of a failure to
+maintain a continuum of appropriate placements and failure to have appropriate lEPs in place by the ﬁrst
+day of the 201 1-2012 and 2012—2013 school years are subsumed under the ﬁnding of a denial of FAPE,
+The Board did not violate Student’s Procedural Safeguards by failing to conduct a Functional Behavioral
+Assessment. The Board did not Violate Student’s Procedural Safeguards by failing to complete an
+evaluation in a timely manner. The Board did not Violate Student’s Procedural Safeguards by failing to
+consider the use of Assistive Technology in Student’s program.
+
+The Board shall immediately engage the services of the Institute for Professional Practice
+(“IPP”) In the event that IPP cannot or will not accept the referral, the Board shall immediately engage
+the services of another outside organization that employs staff with education and training comparable to
+IPP staff. Any alternative outside organization retained shall have at least one BCBA in its employ, who
+will serve as consultant to Region 9. IPP, or its equivalent, shall be retained for the purposes of having
+a BCBA consult with the Region 9 Planning and Placement Team and Staff responsible for creating and
+implementing Student’s IEP. In the event that IPP is not available, the alternative outside organization
+shall be determined by the PPT. The BCBA will review the FBA conducted by the Region 9 School
+Psychologist and any data that was collected in preparation for the FBA. The BCBA shall make
+recommendations regarding whether the FBA can and should be modiﬁed or an additional FBA is
+necessary to address the speciﬁc issues of Student failing to complete homework, failure to turn in
+homework, and failing tests and exams. The BCBA shall also make recommendations regarding the
+design and implementation of a BLP for Student. The BCBA shall take no more than 10 hours to review
+the District’s FBA (including the documentation and data relied upon for the District’s FBA) and
+develop recommendations for the design and implementation of a BIPT 1n the event the BCBA
+recommends another FBA be conducted after his or her review, the second F BA may be conducted by
+District Staff (determined by the PPT) under the supervision of the BCBA. The BCBA shall also
+monitor the implementation of the BIP. If the BCBA feels that team meetings with family and school
+staff are necessary, the Board shall facilitate those meetings by making space and staff available upon
+reasonable request. The BCBA shall train District staff, as needed, to assist in the implementation of
+Student’s BIP. The Board shall contract with IPP, or its equivalent, to have the BCBA conduct the
+initial 10 hour review and provide two hours a week of consultative services during the academic year.
+The BCBA shall use these two hours to consult with staff, train staff, meet with family, supervise an
+additional FBA, if another is deemed necessary by the BCBA, and monitor development and
+implementation of the BIP. The BCBA shall have discretion to determine how much time she shall
+apply to each of the tasks above during her two hours per week. The BCBA shall also have the
+discretion to change the two hour schedule as needed, and may provide more hours in one week and less
+
+13
+
+March 20, 2014 Final Decision and Order 13-0524
+
+than two hours in another week, although the total number of hours of sewices for the remainder of the
+2013-2014 school year and the 2014-2015 school year shall not be increased as a result. For example if
+the BCBA wishes to schedule a 3 hour training he or she may provide 3 hours of training in one week
+and then only provide one hour of consultation the following week.
+
+The Board shall contract with IPP, 01' its equivalent, to have the BCBA participate at the annual
+review PPT meeting (currently scheduled for June 12, 2014) and the annual review PPT meeting in 2015
+(whenever that is scheduled). The Board shall be ﬁnancially responsible for the costs of the BCBA
+attending those meetings and attending any additional PPT meetings held during the 2014-2015 school
+year. The services of the BCBA shall be in place through Student’s graduation, but shall not be required
+during the Summer of 2014.
+
+COMMENTS ON THE CONDUCT OF THE HEARING, PURSUANT TO
+R.C.S.A. §10-76h-161bl:
+
+Attorney for the Board and Attorney for the Student conducted themselves with the utmost civility and
+professionalism throughout this hearing. They are both to be commended for advocating zealously on
+behalf of their clients, without losing sight of the fact that regardless of the outcome of the hearing, the
+family and school staff will need to work together for the remainder of Student’s time in the Region 9
+School District.
+
+14
+
+If the local or regional board of education or the uniﬁed school district responsible for
+providing special education for the student‘requhing special education does not take
+action on the ﬁndings or prescription of the hearing ofﬁcer within ﬁfteen days after
+receipt thereof, the State Board ofEducation shall take appropriate action to enforce the
+ﬁndings or prescription of the hean'ng ofﬁcer. »
+
+Appeals from the hearing decision of the hearing officer may be made to state 01' federal
+court by either party in accordance with the provisions of Section 4-183, Connecticut
+General Statutes, and Title 20, United States Code I415(1')(2)(A).
+
+’1),- /:/ 4144/)” [Z
+5mg; A/M/{N
+
+”(Hearing Ofﬁcer Sigﬁature
+
+IB/d'ﬁé H. FHO‘A .1
+
+Hearing Officer Name iI‘1 Print
+
+signpage.doc (ho disk)
+4/1/04
+
+ 
+
+ 
+
